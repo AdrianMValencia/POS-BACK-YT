@@ -1,0 +1,14 @@
+C:\Projects\Sistema POS\POS\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Projects\Sistema POS\POS\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Projects\Sistema POS\POS\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Projects\Sistema POS\POS\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
