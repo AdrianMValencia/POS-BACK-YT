@@ -1,19 +1,19 @@
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.deps.json
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.dll
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.pdb
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Domain.dll
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Infrastructure.dll
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Utilities.dll
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Domain.pdb
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Infrastructure.pdb
-C:\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Utilities.pdb
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.AssemblyReference.cache
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfoInputs.cache
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfo.cs
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CoreCompileInputs.cache
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CopyComplete
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.dll
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\refint\POS.Application.dll
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.pdb
-C:\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\ref\POS.Application.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.deps.json
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Application.pdb
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CopyComplete
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\refint\POS.Application.dll
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\POS.Application.pdb
+C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Application\obj\Debug\net6.0\ref\POS.Application.dll
