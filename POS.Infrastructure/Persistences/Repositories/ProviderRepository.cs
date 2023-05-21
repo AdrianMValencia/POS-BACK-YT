@@ -47,7 +47,7 @@ namespace POS.Infrastructure.Persistences.Repositories
                                             .AddDays(1));
             }
 
-            if (filters.Sort is null) filters.Sort = "Idasas";
+            if (filters.Sort is null) filters.Sort = "Id";
 
             response.TotalRecords = await providers.CountAsync();
             response.Items = await Ordering(filters, providers, !(bool)filters.Download!).ToListAsync();

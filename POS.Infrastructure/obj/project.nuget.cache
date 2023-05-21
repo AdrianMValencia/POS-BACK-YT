@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7L/mUHIdEhIzXNSD77roISuKkpXNyFn3zwBJbVB5bkt66jr6praxIOA1NX7eHY19crT4XpSnEUqqDBmwg/9PEw==",
+  "dgSpecHash": "ufeC9RfdfSJTbYfPd7RRRH4RlWWRByLx8zjiolTANVNwijcFLSbeM0izK79fLuSJtbYLhE7cywkUppYHUNQA1A==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\azure.storage.blobs\\12.13.0\\azure.storage.blobs.12.13.0.nupkg.sha512",

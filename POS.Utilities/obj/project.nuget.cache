@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wmhDtQi9OrryztNy8Wjpq5HHiFG33bSzgrnt187HUk76hkJd7jB4rDALAPV/e2EfakQprFjcrD5PdgLaT8iYw==",
+  "dgSpecHash": "L+1rEOWFvrnkuQ3fyKYxONCSZfP50DahWelE3qNofEPS7SZlhx751jogtumyORoJ+UkcDwZYSUzm5ZPEn9BxrA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj",
+  "projectFilePath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

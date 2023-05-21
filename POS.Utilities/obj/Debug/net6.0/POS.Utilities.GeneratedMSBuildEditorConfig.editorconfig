@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = POS.Utilities
-build_property.ProjectDir = C:\Projects\Sistema POS\POS\POS.Utilities\
+build_property.ProjectDir = C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\

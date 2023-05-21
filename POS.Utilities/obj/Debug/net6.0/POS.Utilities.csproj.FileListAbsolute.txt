@@ -10,3 +10,27 @@ C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Uti
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll

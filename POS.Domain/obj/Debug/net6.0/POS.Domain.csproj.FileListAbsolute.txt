@@ -12,3 +12,31 @@ C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Dom
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll

@@ -8,6 +8,7 @@ namespace POS.Application.Dtos.User.Request
         public string? Password { get; set; }
         public string? Email { get; set; }
         public IFormFile? Image { get; set; }
+        public string? AuthType { get; set; }
         public int? State { get; set; }
     }
 }

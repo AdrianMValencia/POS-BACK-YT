@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {}
+    "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
         "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\obj\\",
+        "outputPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Sistema POS\\POS\\POS.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,11 +95,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -143,18 +143,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj": {
+    "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\POS.Utilities.csproj",
+        "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\POS.Utilities.csproj",
         "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Sistema POS\\POS\\POS.Utilities\\obj\\",
+        "outputPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,7 +198,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
       "projectName": "POS.Domain",
-      "projectPath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+      "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
       "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\obj\\",
+      "outputPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2077,7 +2077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

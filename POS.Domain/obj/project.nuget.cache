@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgcECgpkrm2uKE1/s+eVjA4BurNclGsMlv6tuTwhJSoOnQzTMVvAH/n5RTiwVFCPWe0kIHQqwsZQH6M0Jd/1Sw==",
+  "dgSpecHash": "Sa8Di+44jJjPSnQbiMyyZo3v7luu1UgrykIWEcqeJgMKVKT6Id9qt/gXn3QZj9VuWpc0FCekX387Y2aVy05BAQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+  "projectFilePath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

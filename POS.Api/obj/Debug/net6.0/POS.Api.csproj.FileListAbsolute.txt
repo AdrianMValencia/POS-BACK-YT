@@ -116,3 +116,242 @@ C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Api
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Api\obj\Debug\net6.0\POS.Api.pdb
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
 C:\Users\Adrian M Valencia\OneDrive\INFO ADRIAN\Projects\Sistema POS\POS\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.exe
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.deps.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.runtimeconfig.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\LiteDB.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\WatchDog.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Application.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Application.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.AssemblyReference.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfoInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CoreCompileInputs.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.POS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.POS.Api.props
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.POS.Api.props
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.POS.Api.props
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\scopedcss\bundle\POS.Api.styles.css
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CopyComplete
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\refint\POS.Api.dll
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
+C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.exe
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.deps.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.runtimeconfig.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Dapper.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Apis.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\LiteDB.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\WatchDog.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Application.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Utilities.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Application.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.AssemblyReference.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfoInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CoreCompileInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.POS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.POS.Api.props
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.POS.Api.props
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.POS.Api.props
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\scopedcss\bundle\POS.Api.styles.css
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CopyComplete
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\refint\POS.Api.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
