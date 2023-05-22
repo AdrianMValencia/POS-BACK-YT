@@ -18,8 +18,8 @@ namespace POS.Api.Controllers
             _providerApplication = providerApplication;
         }
 
-        [HttpPost]
-        public async Task<IActionResult> ListProviders([FromBody] BaseFiltersRequest filters)
+        [HttpGet]
+        public async Task<IActionResult> ListProviders([FromQuery] BaseFiltersRequest filters)
         {
             var response = await _providerApplication.ListProviders(filters);
             return Ok(response);
