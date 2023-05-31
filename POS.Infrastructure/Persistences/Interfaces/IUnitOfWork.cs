@@ -9,6 +9,7 @@ namespace POS.Infrastructure.Persistences.Interfaces
         IUserRepository User { get; }
         IAzureStorage Storage { get; }
         IProviderRepository Provider { get; }
+        IDocumentTypeRepository DocumentType { get; }
         void SaveChanges();
         Task SaveChangesAsync();
     }
