@@ -23,6 +23,7 @@ namespace POS.Application.Extensions
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
+            services.AddScoped<IGenerateExcelApplication, GenerateExcelApplication>();
             services.AddScoped<ICategoryApplication, CategoryApplication>();
             services.AddScoped<IUserApplication, UserApplication>();
             services.AddScoped<IProviderApplication, ProviderApplication>();
