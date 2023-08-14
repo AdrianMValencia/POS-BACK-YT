@@ -24,7 +24,7 @@ namespace POS.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> ListCategories([FromQuery] BaseFiltersRequest filters)
         {
-            var response = await _categoryApplication.ListCategories(filters);
+           var response = await _categoryApplication.ListCategories(filters);
 
             if ((bool)filters.Download!)
             {
