@@ -1,12 +1,11 @@
 ﻿using ClosedXML.Excel;
-using POS.Infrastructure.Commons.Bases.Response;
 using POS.Utilities.Static;
 
 namespace POS.Infrastructure.FileExcel
 {
     public class GenerateExcel : IGenerateExcel
     {
-        public MemoryStream GenerateToExcel<T>(BaseEntityResponse<T> data, List<TableColumn> columns)
+        public MemoryStream GenerateToExcel<T>(IEnumerable<T> data, List<TableColumn> columns)
         {
             var workbook = new XLWorkbook();
             var worksheet = workbook.Worksheets.Add("Listado");
@@ -18,7 +17,7 @@ namespace POS.Infrastructure.FileExcel
 
             var rowIndex = 2;
 
-            foreach (var item in data.Items!)
+            foreach (var item in data)
             {
                 for (int i = 0; i < columns.Count; i++)
                 {

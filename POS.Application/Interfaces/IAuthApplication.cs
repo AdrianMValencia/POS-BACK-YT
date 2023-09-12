@@ -1,4 +1,4 @@
-﻿using POS.Application.Commons.Bases;
+﻿using POS.Application.Commons.Bases.Response;
 using POS.Application.Dtos.User.Request;
 
 namespace POS.Application.Interfaces

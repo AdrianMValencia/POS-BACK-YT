@@ -1,5 +1,4 @@
 ﻿using POS.Application.Interfaces;
-using POS.Infrastructure.Commons.Bases.Response;
 using POS.Infrastructure.FileExcel;
 using POS.Utilities.Static;
 
@@ -14,7 +13,7 @@ namespace POS.Application.Services
             _generateExcel = generateExcel;
         }
 
-        public byte[] GenerateToExcel<T>(BaseEntityResponse<T> data, List<(string ColumnName, string PropertyName)> columns)
+        public byte[] GenerateToExcel<T>(IEnumerable<T> data, List<(string ColumnName, string PropertyName)> columns)
         {
             var excelColumns = ExcelColumnNames.GetColumns(columns);
             var memoryStreamExcel = _generateExcel.GenerateToExcel(data, excelColumns);

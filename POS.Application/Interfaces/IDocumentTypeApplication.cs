@@ -1,4 +1,4 @@
-﻿using POS.Application.Commons.Bases;
+﻿using POS.Application.Commons.Bases.Response;
 using POS.Application.Dtos.DocumentType.Response;
 
 namespace POS.Application.Interfaces

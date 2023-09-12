@@ -312,16 +312,35 @@ namespace POS.Infrastructure.Persistences.Migrations
 
             modelBuilder.Entity("POS.Domain.Entities.DocumentType", b =>
                 {
-                    b.Property<int>("DocumentTypeId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("DocumentTypeId");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("DocumentTypeId"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<string>("Abbreviation")
                         .HasMaxLength(5)
                         .IsUnicode(false)
                         .HasColumnType("varchar(5)");
+
+                    b.Property<DateTime>("AuditCreateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("AuditCreateUser")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("AuditDeleteDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("AuditDeleteUser")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("AuditUpdateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("AuditUpdateUser")
+                        .HasColumnType("int");
 
                     b.Property<string>("Code")
                         .HasMaxLength(10)
@@ -333,10 +352,10 @@ namespace POS.Infrastructure.Persistences.Migrations
                         .IsUnicode(false)
                         .HasColumnType("varchar(255)");
 
-                    b.Property<int?>("State")
+                    b.Property<int>("State")
                         .HasColumnType("int");
 
-                    b.HasKey("DocumentTypeId");
+                    b.HasKey("Id");
 
                     b.ToTable("DocumentTypes");
                 });
