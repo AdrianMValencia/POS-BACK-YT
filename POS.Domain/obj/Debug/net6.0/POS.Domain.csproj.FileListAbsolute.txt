@@ -40,3 +40,4 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Domain\obj\Debug\net6.0\POS.Domain.sourcelink.json

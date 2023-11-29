@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AmbshY6xWgFtCmLY++aPZ4xp2RBIKmImcsVUPVXhwTm8kzyIK31BK/hmUxd7vMmnlxyqC8fTVaCEhg+D8iRFeA==",
+  "dgSpecHash": "mp24Bsmbhe/D7+dFjtoF5BkjUYQ4FGtg2J2wFBvLkm8fI7xT9vo2IAvQtKrr0xmlUErcmdKpVYUNn+DXPgK6Nw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Infrastructure\\POS.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -138,5 +138,16 @@
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Linq.Dynamic.Core' 1.2.19 has a known critical severity vulnerability, https://github.com/advisories/GHSA-w65q-jcmv-28gj",
+      "libraryId": "System.Linq.Dynamic.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

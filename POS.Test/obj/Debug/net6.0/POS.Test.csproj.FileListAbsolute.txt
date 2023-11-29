@@ -1,4 +1,10 @@
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.csproj.AssemblyReference.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.AssemblyInfoInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.AssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.csproj.CoreCompileInputs.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\testhost.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Api.deps.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Api.runtimeconfig.json
@@ -484,12 +490,6 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Application.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Domain.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Infrastructure.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Utilities.pdb
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.csproj.AssemblyReference.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.AssemblyInfoInputs.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.AssemblyInfo.cs
-C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.csproj.CoreCompileInputs.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.csproj.CopyComplete
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\refint\POS.Test.dll

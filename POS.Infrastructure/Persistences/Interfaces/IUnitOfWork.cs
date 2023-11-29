@@ -1,4 +1,5 @@
 ﻿using POS.Domain.Entities;
+using System.Data;
 
 namespace POS.Infrastructure.Persistences.Interfaces
 {
@@ -9,7 +10,11 @@ namespace POS.Infrastructure.Persistences.Interfaces
         IGenericRepository<Provider> Provider { get; }
         IGenericRepository<DocumentType> DocumentType { get; }
         IUserRepository User { get; }
+        IWarehouseRepository Warehouse { get; }
+        IGenericRepository<Product> Product { get; }
+        IProductStockRepository ProductStock { get; }
         void SaveChanges();
         Task SaveChangesAsync();
+        IDbTransaction BeginTransaction();
     }
 }
