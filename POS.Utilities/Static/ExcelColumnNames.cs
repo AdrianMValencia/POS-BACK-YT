@@ -67,5 +67,24 @@
             return columnsProperties;
         }
         #endregion
+
+        #region GetColumnsProducts
+        public static List<(string ColumnName, string PropertyName)> GetColumnsProducts()
+        {
+            var columnsProperties = new List<(string ColumnName, string PropertyName)>
+            {
+                ("CÓDIGO", "Code"),
+                ("NOMBRE", "Name"),
+                ("STOCK MÍNIMO", "StockMin"),
+                ("STOCK MÁXIMO", "StockMax"),
+                ("PRECIO DE VENTA", "UnitSalePrice"),
+                ("CATEGORÍA", "Category"),
+                ("FECHA DE CREACIÓN", "AuditCreateDate"),
+                ("ESTADO", "StateProduct")
+            };
+
+            return columnsProperties;
+        }
+        #endregion
     }
 }

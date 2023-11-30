@@ -471,6 +471,9 @@ namespace POS.Infrastructure.Persistences.Migrations
                     b.Property<int>("StockMin")
                         .HasColumnType("int");
 
+                    b.Property<decimal>("UnitSalePrice")
+                        .HasColumnType("decimal(10,2)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");

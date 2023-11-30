@@ -1,3 +1,4 @@
+using Microsoft.Extensions.DependencyInjection;
 using POS.Api.Extensions;
 using POS.Application.Extensions;
 using POS.Infrastructure.Extensions;
@@ -19,6 +20,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwagger();
 
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("GoogleSettings"));
+
+builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddCors(options =>
 {

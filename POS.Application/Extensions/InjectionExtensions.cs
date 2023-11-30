@@ -20,6 +20,7 @@ namespace POS.Application.Extensions
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
             services.AddTransient<IOrderingQuery, OrderingQuery>();
+            services.AddTransient<IFileStorageLocalApplication, FileStorageLocalApplication>();
 
             services.AddScoped<IGenerateExcelApplication, GenerateExcelApplication>();
             services.AddScoped<ICategoryApplication, CategoryApplication>();
@@ -28,6 +29,7 @@ namespace POS.Application.Extensions
             services.AddScoped<IAuthApplication, AuthApplication>();
             services.AddScoped<IDocumentTypeApplication, DocumentTypeApplication>();
             services.AddScoped<IWarehouseApplication, WarehouseApplication>();
+            services.AddScoped<IProductApplication, ProductApplication>();
 
             services.AddWatchDog(configuration);
 

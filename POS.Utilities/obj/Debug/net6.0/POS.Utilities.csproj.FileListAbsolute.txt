@@ -29,8 +29,8 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.Gene
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.sourcelink.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll
-C:\Projects\POS YT\POS-BACK-YT\POS.Utilities\obj\Debug\net6.0\POS.Utilities.sourcelink.json

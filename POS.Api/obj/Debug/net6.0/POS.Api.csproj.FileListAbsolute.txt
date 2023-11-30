@@ -234,12 +234,6 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
 C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.AssemblyReference.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfoInputs.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfo.cs
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CoreCompileInputs.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.Development.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\appsettings.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.exe
@@ -347,14 +341,21 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Application.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Infrastructure.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Utilities.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.AssemblyReference.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfoInputs.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CoreCompileInputs.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.sourcelink.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.POS.Api.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.POS.Api.props
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.POS.Api.props
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.POS.Api.props
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\scopedcss\bundle\POS.Api.styles.css
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CopyComplete
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.dll
@@ -362,4 +363,3 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\refint\POS.Api.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.sourcelink.json
