@@ -86,5 +86,20 @@
             return columnsProperties;
         }
         #endregion
+
+        #region GetColumnsPurcharses
+        public static List<(string ColumnName, string PropertyName)> GetColumnsPurcharses()
+        {
+            var columnsProperties = new List<(string ColumnName, string PropertyName)>
+            {
+                ("PROVEEDOR", "Provider"),
+                ("ALMACÉN", "Warehouse"),
+                ("MONTO TOTAL", "TotalAmount"),
+                ("FECHA DE COMPRA", "DateOfPurcharse"),
+            };
+
+            return columnsProperties;
+        }
+        #endregion
     }
 }

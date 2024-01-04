@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using POS.Application.Commons.Bases.Request;
 using POS.Application.Commons.Bases.Response;
 using POS.Application.Commons.Ordering;
+using POS.Application.Dtos.Product.Request;
 using POS.Application.Dtos.Product.Response;
 using POS.Application.Interfaces;
+using POS.Domain.Entities;
 using POS.Infrastructure.Persistences.Interfaces;
 using POS.Utilities.Static;
 using System;
@@ -21,12 +23,14 @@ namespace POS.Application.Services
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
         private readonly IOrderingQuery _orderingQuery;
+        private readonly IFileStorageLocalApplication _fileStorage;
 
-        public ProductApplication(IUnitOfWork unitOfWork, IMapper mapper, IOrderingQuery orderingQuery)
+        public ProductApplication(IUnitOfWork unitOfWork, IMapper mapper, IOrderingQuery orderingQuery, IFileStorageLocalApplication fileStorage)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
             _orderingQuery = orderingQuery;
+            _fileStorage = fileStorage;
         }
 
         public async Task<BaseResponse<IEnumerable<ProductResponseDto>>> ListProducts(BaseFiltersRequest filters)
@@ -110,6 +114,122 @@ namespace POS.Application.Services
             }
 
             return response;
+        }
+
+        public async Task<BaseResponse<bool>> RegisterProduct(ProductRequestDto requestDto)
+        {
+            var response = new BaseResponse<bool>();
+
+            using var transaction = _unitOfWork.BeginTransaction();
+
+            try
+            {
+                var product = _mapper.Map<Product>(requestDto);
+
+                if (requestDto.Image is not null)
+                    product.Image = await _fileStorage.SaveFile(AzureContainers.PRODUCTS, requestDto.Image);
+
+                await _unitOfWork.Product.RegisterAsync(product);
+                int productId = product.Id;
+                var warehouses = await _unitOfWork.Warehouse.GetAllAsync();
+
+                await RegisterProductStockAsync(warehouses, productId);
+
+                transaction.Commit();
+                response.IsSuccess = true;
+                response.Message = ReplyMessage.MESSAGE_SAVE;
+            }
+            catch (Exception ex)
+            {
+                transaction.Rollback();
+                response.IsSuccess = false;
+                response.Message = ReplyMessage.MESSAGE_EXCEPTION;
+                WatchLogger.Log(ex.Message);
+            }
+
+            return response;
+        }
+
+        public async Task<BaseResponse<bool>> EditProduct(int productId, ProductRequestDto requestDto)
+        {
+            var response = new BaseResponse<bool>();
+
+            try
+            {
+                var pathImage = await ProductById(productId);
+                var product = _mapper.Map<Product>(requestDto);
+
+                if (requestDto.Image is not null)
+                    product.Image = await _fileStorage
+                        .EditFile(AzureContainers.PRODUCTS, requestDto.Image, pathImage.Data!.Image!);
+
+                if (requestDto.Image is null)
+                    product.Image = pathImage.Data!.Image;
+
+                product.Id = productId;
+                await _unitOfWork.Product.EditAsync(product);
+
+                response.IsSuccess = true;
+                response.Message = ReplyMessage.MESSAGE_UPDATE;
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = ReplyMessage.MESSAGE_EXCEPTION;
+                WatchLogger.Log(ex.Message);
+            }
+
+            return response;
+        }
+        
+        public async Task<BaseResponse<bool>> RemoveProduct(int productId)
+        {
+            var response = new BaseResponse<bool>();
+
+            try
+            {
+                var product = await ProductById(productId);
+
+                response.Data = await _unitOfWork.Product.RemoveAsync(productId);
+
+                await _fileStorage.RemoveFile(product.Data!.Image!, AzureContainers.PRODUCTS);
+
+                if (!response.Data)
+                {
+                    response.IsSuccess = false;
+                    response.Message = ReplyMessage.MESSAGE_FAILED;
+                    return response;
+                }
+
+                response.IsSuccess = true;
+                response.Message = ReplyMessage.MESSAGE_DELETE;
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = ReplyMessage.MESSAGE_EXCEPTION;
+                WatchLogger.Log(ex.Message);
+            }
+
+            return response;
+        }
+
+        private async Task RegisterProductStockAsync(
+            IEnumerable<Warehouse> warehouses,
+            int productId)
+        {
+            foreach (var warehouse in warehouses)
+            {
+                var newProductStock = new ProductStock
+                {
+                    ProductId = productId,
+                    WarehouseId = warehouse.Id,
+                    CurrentStock = 0,
+                    PurchasePrice = 0
+                };
+
+                await _unitOfWork.ProductStock.RegisterProductStock(newProductStock);
+            }
         }
     }
 }

@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "BF/QOrgaq7IHcLjcLbY4QUfaN3HpiDVSeWx1SEYEb44=",
+  "Hash": "idl+RV2L1j1NEd52KR/aXuk6yhlHF8TeeTYgtY2dq/0=",
   "Source": "POS.Api",
   "BasePath": "_content/POS.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "POS.Api\\wwwroot",
+      "Source": "POS.Api",
+      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "BasePath": "_content/POS.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg",
+      "SourceId": "POS.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "BasePath": "_content/POS.Api",
+      "RelativePath": "products/4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg"
+    },
+    {
+      "Identity": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\f91c89dc-c01b-43bb-b397-16bae7e3c500.png",
+      "SourceId": "POS.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "BasePath": "_content/POS.Api",
+      "RelativePath": "products/f91c89dc-c01b-43bb-b397-16bae7e3c500.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\f91c89dc-c01b-43bb-b397-16bae7e3c500.png"
+    }
+  ]
 }

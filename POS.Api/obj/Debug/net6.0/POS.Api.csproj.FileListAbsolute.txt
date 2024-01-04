@@ -363,3 +363,4 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\refint\POS.Api.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.staticwebassets.runtime.json

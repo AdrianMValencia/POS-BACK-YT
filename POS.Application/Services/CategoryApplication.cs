@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using POS.Application.Commons.Bases.Request;
 using POS.Application.Commons.Bases.Response;
 using POS.Application.Commons.Ordering;
+using POS.Application.Commons.Select.Response;
 using POS.Application.Dtos.Category.Request;
 using POS.Application.Dtos.Category.Response;
 using POS.Application.Interfaces;
@@ -78,9 +79,9 @@ namespace POS.Application.Services
             return response;
         }
 
-        public async Task<BaseResponse<IEnumerable<CategorySelectResponseDto>>> ListSelectCategories()
+        public async Task<BaseResponse<IEnumerable<SelectResponse>>> ListSelectCategories()
         {
-            var response = new BaseResponse<IEnumerable<CategorySelectResponseDto>>();
+            var response = new BaseResponse<IEnumerable<SelectResponse>>();
 
             try
             {
@@ -89,7 +90,7 @@ namespace POS.Application.Services
                 if (categories is not null)
                 {
                     response.IsSuccess = true;
-                    response.Data = _mapper.Map<IEnumerable<CategorySelectResponseDto>>(categories);
+                    response.Data = _mapper.Map<IEnumerable<SelectResponse>>(categories);
                     response.Message = ReplyMessage.MESSAGE_QUERY;
                 }
                 else

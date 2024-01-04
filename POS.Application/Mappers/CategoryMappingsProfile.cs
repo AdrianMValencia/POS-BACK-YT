@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using POS.Application.Commons.Select.Response;
 using POS.Application.Dtos.Category.Request;
 using POS.Application.Dtos.Category.Response;
 using POS.Domain.Entities;
@@ -17,8 +18,8 @@ namespace POS.Application.Mappers
 
             CreateMap<CategoryRequestDto, Category>();
 
-            CreateMap<Category, CategorySelectResponseDto>()
-                .ForMember(x => x.CategoryId, x => x.MapFrom(y => y.Id))
+            CreateMap<Category, SelectResponse>()
+                .ForMember(x => x.Description, x => x.MapFrom(y => y.Name))
                 .ReverseMap();
         }
     }

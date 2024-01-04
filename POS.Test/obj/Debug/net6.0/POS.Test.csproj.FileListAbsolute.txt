@@ -497,3 +497,4 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\refint\POS.Test.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\POS.Test.genruntimeconfig.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Test\obj\Debug\net6.0\ref\POS.Test.dll
+C:\Projects\POS YT\POS-BACK-YT\POS.Test\bin\Debug\net6.0\POS.Api.staticwebassets.runtime.json

@@ -64,6 +64,7 @@ namespace POS.Infrastructure.Persistences.Repositories
 
             entity!.AuditDeleteUser = 1;
             entity.AuditDeleteDate = DateTime.Now;
+            entity.State = 0;
 
             _context.Update(entity);
 
