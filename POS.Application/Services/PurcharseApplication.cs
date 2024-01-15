@@ -50,10 +50,10 @@ namespace POS.Application.Services
                     }
                 }
 
-                if (filters.StateFilter is not null)
-                {
-                    purcharses = purcharses.Where(x => x.State.Equals(filters.StateFilter));
-                }
+                //if (filters.StateFilter is not null)
+                //{
+                //    purcharses = purcharses.Where(x => x.State.Equals(filters.StateFilter));
+                //}
 
                 if (!string.IsNullOrEmpty(filters.StartDate) && !string.IsNullOrEmpty(filters.EndDate))
                 {

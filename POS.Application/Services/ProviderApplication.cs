@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using POS.Application.Commons.Bases.Request;
 using POS.Application.Commons.Bases.Response;
 using POS.Application.Commons.Ordering;
+using POS.Application.Commons.Select.Response;
 using POS.Application.Dtos.Provider.Request;
 using POS.Application.Dtos.Provider.Response;
 using POS.Application.Interfaces;
@@ -72,6 +73,35 @@ namespace POS.Application.Services
                 response.IsSuccess = true;
                 response.TotalRecords = await providers.CountAsync();
                 response.Data = _mapper.Map<IEnumerable<ProviderResponseDto>>(items);
+                response.Message = ReplyMessage.MESSAGE_QUERY;
+            }
+            catch (Exception ex)
+            {
+                response.IsSuccess = false;
+                response.Message = ReplyMessage.MESSAGE_EXCEPTION;
+                WatchLogger.Log(ex.Message);
+            }
+
+            return response;
+        }
+
+        public async Task<BaseResponse<IEnumerable<SelectResponse>>> ListSelectProviders()
+        {
+            var response = new BaseResponse<IEnumerable<SelectResponse>>();
+
+            try
+            {
+                var providers = await _unitOfWork.Provider.GetSelectAsync();
+
+                if (providers is null)
+                {
+                    response.IsSuccess = false;
+                    response.Message = ReplyMessage.MESSAGE_QUERY_EMPTY;
+                    return response;
+                }
+
+                response.IsSuccess = true;
+                response.Data = _mapper.Map<IEnumerable<SelectResponse>>(providers);
                 response.Message = ReplyMessage.MESSAGE_QUERY;
             }
             catch (Exception ex)

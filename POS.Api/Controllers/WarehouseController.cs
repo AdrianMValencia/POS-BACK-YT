@@ -34,6 +34,13 @@ namespace POS.Api.Controllers
             return Ok(response);
         }
 
+        [HttpGet("Select")]
+        public async Task<IActionResult> ListSelectWarehouses()
+        {
+            var response = await _warehouseApplication.ListSelectWarehouse();
+            return Ok(response);
+        }
+
         [HttpGet("{warehouseId:int}")]
         public async Task<IActionResult> WarehouseById(int warehouseId)
         {
