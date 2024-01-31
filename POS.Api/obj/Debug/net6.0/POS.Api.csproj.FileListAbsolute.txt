@@ -346,7 +346,6 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.GeneratedMSBuild
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfoInputs.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.AssemblyInfo.cs
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.CoreCompileInputs.cache
-C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.sourcelink.json
 C:\Projects\POS YT\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.json

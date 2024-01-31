@@ -15,6 +15,7 @@ namespace POS.Infrastructure.Persistences.Interfaces
         IProductStockRepository ProductStock { get; }
         IGenericRepository<Purcharse> Purcharse { get; }
         IPurcharseDetailRepository PurcharseDetail { get; }
+        IGenericRepository<Client> Client { get; }
         void SaveChanges();
         Task SaveChangesAsync();
         IDbTransaction BeginTransaction();

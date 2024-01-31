@@ -8,6 +8,11 @@ namespace POS.Infrastructure.Persistences.Contexts.Configurations
     {
         public void Configure(EntityTypeBuilder<Client> builder)
         {
+            builder.HasKey(e => e.Id);
+
+            builder.Property(e => e.Id)
+                .HasColumnName("ClientId");
+
             builder.Property(e => e.Address).IsUnicode(false);
 
             builder.Property(e => e.DocumentNumber)

@@ -101,5 +101,24 @@
             return columnsProperties;
         }
         #endregion
+
+        #region GetColumnsClients
+        public static List<(string ColumnName, string PropertyName)> GetColumnsClients()
+        {
+            var columnsProperties = new List<(string ColumnName, string PropertyName)>
+            {
+                ("NOMBRE", "Name"),
+                ("EMAIL", "Email"),
+                ("TIPO DE DOCUMENTO", "DocumentType"),
+                ("N° DE DOCUMENTO", "DocumentNumber"),
+                ("DIRECCIÓN", "Address"),
+                ("TELÉFONO", "Phone"),
+                ("FECHA DE CREACIÓN", "AuditCreateDate"),
+                ("ESTADO", "StateClient"),
+            };
+
+            return columnsProperties;
+        }
+        #endregion
     }
 }
