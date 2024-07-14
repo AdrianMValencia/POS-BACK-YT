@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "idl+RV2L1j1NEd52KR/aXuk6yhlHF8TeeTYgtY2dq/0=",
+  "Hash": "/H1OCoMG3uQNmjL67IRAdw3ke8LqdbcJZ12aX6RZW1w=",
   "Source": "POS.Api",
   "BasePath": "_content/POS.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "POS.Api\\wwwroot",
       "Source": "POS.Api",
-      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\wwwroot\\",
       "BasePath": "_content/POS.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg",
+      "Identity": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg",
       "SourceId": "POS.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\wwwroot\\",
       "BasePath": "_content/POS.Api",
       "RelativePath": "products/4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\products\\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg"
     },
     {
-      "Identity": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\f91c89dc-c01b-43bb-b397-16bae7e3c500.png",
+      "Identity": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\wwwroot\\products\\f91c89dc-c01b-43bb-b397-16bae7e3c500.png",
       "SourceId": "POS.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\wwwroot\\",
       "BasePath": "_content/POS.Api",
       "RelativePath": "products/f91c89dc-c01b-43bb-b397-16bae7e3c500.png",
       "AssetKind": "All",

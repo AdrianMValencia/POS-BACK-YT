@@ -2012,23 +2012,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\": {},
+    "C:\\Users\\camv0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
       "projectName": "POS.Domain",
-      "projectPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
-      "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\POS YT\\POS-BACK-YT\\POS.Domain\\obj\\",
+      "projectPath": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Domain\\POS.Domain.csproj",
+      "packagesPath": "C:\\Users\\camv0\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\camv0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2050,6 +2050,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2083,7 +2088,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

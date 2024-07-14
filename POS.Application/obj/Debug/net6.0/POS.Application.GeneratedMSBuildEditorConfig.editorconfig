@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = POS.Application
-build_property.ProjectDir = C:\Projects\POS YT\POS-BACK-YT\POS.Application\
+build_property.ProjectDir = C:\Projects\POS\POS-BACK-YT\POS.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

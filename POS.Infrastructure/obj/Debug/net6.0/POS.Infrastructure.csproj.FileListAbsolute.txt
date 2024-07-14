@@ -50,3 +50,21 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastru
 C:\Projects\POS YT\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.deps.json
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.sourcelink.json
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Infrastructure\obj\Debug\net6.0\POS.Infr.1F9324E1.Up2Date

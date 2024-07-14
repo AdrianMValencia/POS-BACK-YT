@@ -120,5 +120,21 @@
             return columnsProperties;
         }
         #endregion
+
+        #region GetColumnsSales
+        public static List<(string ColumnName, string PropertyName)> GetColumnsSales()
+        {
+            var columnsProperties = new List<(string ColumnName, string PropertyName)>
+            {
+                ("COMPROBANTE", "VoucherDescription"),
+                ("N° COMPROBANTE", "VoucherNumber"),
+                ("CLIENTE", "Client"),
+                ("MONTO TOTAL", "TotalAmount"),
+                ("FECHA DE VENTA", "DateOfSale"),
+            };
+
+            return columnsProperties;
+        }
+        #endregion
     }
 }

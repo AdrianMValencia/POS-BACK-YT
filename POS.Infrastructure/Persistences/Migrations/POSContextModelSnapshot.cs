@@ -698,11 +698,12 @@ namespace POS.Infrastructure.Persistences.Migrations
 
             modelBuilder.Entity("POS.Domain.Entities.Sale", b =>
                 {
-                    b.Property<int>("SaleId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("SaleId");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SaleId"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<DateTime>("AuditCreateDate")
                         .HasColumnType("datetime2");
@@ -722,79 +723,67 @@ namespace POS.Infrastructure.Persistences.Migrations
                     b.Property<int?>("AuditUpdateUser")
                         .HasColumnType("int");
 
-                    b.Property<int?>("ClientId")
+                    b.Property<int>("ClientId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("SaleDate")
-                        .HasColumnType("datetime2");
+                    b.Property<decimal>("Igv")
+                        .HasColumnType("decimal(10,2)");
 
-                    b.Property<int?>("State")
+                    b.Property<string>("Observation")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("State")
                         .HasColumnType("int");
 
-                    b.Property<decimal?>("Tax")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<decimal>("SubTotal")
+                        .HasColumnType("decimal(10,2)");
 
-                    b.Property<decimal?>("Total")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<decimal>("TotalAmount")
+                        .HasColumnType("decimal(10,2)");
 
-                    b.Property<int?>("UserId")
+                    b.Property<int>("VoucherDocumentTypeId")
                         .HasColumnType("int");
 
-                    b.HasKey("SaleId");
+                    b.Property<string>("VoucherNumber")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(30)");
+
+                    b.Property<int>("WarehouseId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.HasIndex("ClientId");
 
-                    b.HasIndex("UserId");
+                    b.HasIndex("VoucherDocumentTypeId");
+
+                    b.HasIndex("WarehouseId");
 
                     b.ToTable("Sales");
                 });
 
             modelBuilder.Entity("POS.Domain.Entities.SaleDetail", b =>
                 {
-                    b.Property<int>("SaleDetailId")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int>("SaleId")
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SaleDetailId"), 1L, 1);
-
-                    b.Property<DateTime>("AuditCreateDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("AuditCreateUser")
+                    b.Property<int>("ProductId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("AuditDeleteDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int?>("AuditDeleteUser")
+                    b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("AuditUpdateDate")
-                        .HasColumnType("datetime2");
+                    b.Property<decimal>("Total")
+                        .HasColumnType("decimal(10,2)");
 
-                    b.Property<int?>("AuditUpdateUser")
-                        .HasColumnType("int");
+                    b.Property<decimal>("UnitSalePrice")
+                        .HasColumnType("decimal(10,2)");
 
-                    b.Property<decimal?>("Discount")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<decimal?>("Price")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<int?>("ProductId")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("Quantity")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("SaleId")
-                        .HasColumnType("int");
-
-                    b.HasKey("SaleDetailId");
+                    b.HasKey("SaleId", "ProductId");
 
                     b.HasIndex("ProductId");
-
-                    b.HasIndex("SaleId");
 
                     b.ToTable("SaleDetails");
                 });
@@ -912,6 +901,46 @@ namespace POS.Infrastructure.Persistences.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("UsersBranchOffices");
+                });
+
+            modelBuilder.Entity("POS.Domain.Entities.VoucherDocumentType", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("VoucherDocumentTypeId");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<DateTime>("AuditCreateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("AuditCreateUser")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("AuditDeleteDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("AuditDeleteUser")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("AuditUpdateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("AuditUpdateUser")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(30)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(30)");
+
+                    b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("VoucherDocumentTypes");
                 });
 
             modelBuilder.Entity("POS.Domain.Entities.Warehouse", b =>
@@ -1116,28 +1145,42 @@ namespace POS.Infrastructure.Persistences.Migrations
                 {
                     b.HasOne("POS.Domain.Entities.Client", "Client")
                         .WithMany()
-                        .HasForeignKey("ClientId");
+                        .HasForeignKey("ClientId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
-                    b.HasOne("POS.Domain.Entities.User", "User")
-                        .WithMany("Sales")
-                        .HasForeignKey("UserId")
-                        .HasConstraintName("FK__Sales__UserId__59FA5E80");
+                    b.HasOne("POS.Domain.Entities.VoucherDocumentType", "VoucherDocumentType")
+                        .WithMany()
+                        .HasForeignKey("VoucherDocumentTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("POS.Domain.Entities.Warehouse", "Warehouse")
+                        .WithMany()
+                        .HasForeignKey("WarehouseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Client");
 
-                    b.Navigation("User");
+                    b.Navigation("VoucherDocumentType");
+
+                    b.Navigation("Warehouse");
                 });
 
             modelBuilder.Entity("POS.Domain.Entities.SaleDetail", b =>
                 {
                     b.HasOne("POS.Domain.Entities.Product", "Product")
                         .WithMany()
-                        .HasForeignKey("ProductId");
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("POS.Domain.Entities.Sale", "Sale")
                         .WithMany("SaleDetails")
                         .HasForeignKey("SaleId")
-                        .HasConstraintName("FK__SaleDetai__SaleI__5812160E");
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Product");
 
@@ -1255,8 +1298,6 @@ namespace POS.Infrastructure.Persistences.Migrations
 
             modelBuilder.Entity("POS.Domain.Entities.User", b =>
                 {
-                    b.Navigation("Sales");
-
                     b.Navigation("UserRoles");
 
                     b.Navigation("UsersBranchOffices");

@@ -56,3 +56,23 @@ C:\Projects\POS YT\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.
 C:\Projects\POS YT\POS-BACK-YT\POS.Application\obj\Debug\net6.0\refint\POS.Application.dll
 C:\Projects\POS YT\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.pdb
 C:\Projects\POS YT\POS-BACK-YT\POS.Application\obj\Debug\net6.0\ref\POS.Application.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Application.deps.json
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Application.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Application.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Domain.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Utilities.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Domain.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Application\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.csproj.AssemblyReference.cache
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfoInputs.cache
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.AssemblyInfo.cs
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CoreCompileInputs.cache
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.sourcelink.json
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\refint\POS.Application.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Application.pdb
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\ref\POS.Application.dll
+C:\Projects\POS\POS-BACK-YT\POS.Application\obj\Debug\net6.0\POS.Appl.B41D5806.Up2Date
