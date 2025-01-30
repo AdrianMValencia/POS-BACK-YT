@@ -1,6 +1,6 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\products\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\products\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>POS.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -12,11 +12,13 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gyqhrvvay3</Fingerprint>
+      <Integrity>uOnpg8qQWiMGuPSybjmVbbeip23poCFZGeLUGwhMCF0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\products\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\products\4ea2876e-0a78-4bd1-9bba-32ab92838d98.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\products\f91c89dc-c01b-43bb-b397-16bae7e3c500.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\products\f91c89dc-c01b-43bb-b397-16bae7e3c500.png'))">
       <SourceType>Package</SourceType>
       <SourceId>POS.Api</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -28,9 +30,11 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>22gnrq7vy6</Fingerprint>
+      <Integrity>9nsZVLbO1H3Uq6ibunknQAhdWy6hcTJqCQkVGkMv3UI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\products\f91c89dc-c01b-43bb-b397-16bae7e3c500.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\products\f91c89dc-c01b-43bb-b397-16bae7e3c500.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

@@ -34,6 +34,7 @@ namespace POS.Application.Extensions
             services.AddScoped<IPurcharseApplication, PurcharseApplication>();
             services.AddScoped<IClientApplication, ClientApplication>();
             services.AddScoped<ISaleApplication, SaleApplication>();
+            services.AddScoped<IVoucherDocumentTypeApplication, VoucherDocumentTypeApplication>();
 
             services.AddWatchDog(configuration);
 

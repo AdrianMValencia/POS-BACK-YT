@@ -493,3 +493,7 @@ C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.pdb
 C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.genruntimeconfig.cache
 C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\ref\POS.Api.dll
 C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\POS.Api.csproj.Up2Date
+C:\Projects\POS\POS-BACK-YT\POS.Api\bin\Debug\net6.0\POS.Api.staticwebassets.endpoints.json
+C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets\msbuild.POS.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projects\POS\POS-BACK-YT\POS.Api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

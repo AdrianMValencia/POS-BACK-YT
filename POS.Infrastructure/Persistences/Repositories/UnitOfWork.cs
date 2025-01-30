@@ -23,6 +23,7 @@ namespace POS.Infrastructure.Persistences.Repositories
         public IGenericRepository<Client> _client = null!;
         public IGenericRepository<Sale> _sale = null!;
         public ISaleDetailRepository _saleDetail = null!;
+        public IGenericRepository<VoucherDocumentType> _voucherDocumentType = null!;
 
         public UnitOfWork(POSContext context, IConfiguration configuration)
         {
@@ -41,6 +42,7 @@ namespace POS.Infrastructure.Persistences.Repositories
         public IGenericRepository<Client> Client => _client ?? new GenericRepository<Client>(_context);
         public IGenericRepository<Sale> Sale => _sale ?? new GenericRepository<Sale>(_context);
         public ISaleDetailRepository SaleDetail => _saleDetail ?? new SaleDetailRepository(_context);
+        public IGenericRepository<VoucherDocumentType> VoucherDocumentType => _voucherDocumentType ?? new GenericRepository<VoucherDocumentType>(_context);
 
         public IDbTransaction BeginTransaction()
         {

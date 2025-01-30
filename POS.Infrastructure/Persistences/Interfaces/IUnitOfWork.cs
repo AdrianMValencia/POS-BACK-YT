@@ -18,6 +18,7 @@ namespace POS.Infrastructure.Persistences.Interfaces
         IGenericRepository<Client> Client { get; }
         IGenericRepository<Sale> Sale { get; }
         ISaleDetailRepository SaleDetail { get; }
+        IGenericRepository<VoucherDocumentType> VoucherDocumentType { get; }
         void SaveChanges();
         Task SaveChangesAsync();
         IDbTransaction BeginTransaction();
