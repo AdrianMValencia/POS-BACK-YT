@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\POS\\POS-BACK-YT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FE71EBB-D03C-4EB5-9F40-1D6AA1FB2B3F}|POS.Application\\POS.Application.csproj|c:\\projects\\pos\\pos-back-yt\\pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FE71EBB-D03C-4EB5-9F40-1D6AA1FB2B3F}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|c:\\projects\\pos\\pos-back-yt\\pos.api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|c:\\projects\\pos\\pos-back-yt\\pos.api\\controllers\\voucherdocumenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\controllers\\voucherdocumenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|c:\\projects\\pos\\pos-back-yt\\pos.api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|c:\\projects\\pos\\pos-back-yt\\pos.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BFD191-8960-4D6B-A171-6E565617E137}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE71EBB-D03C-4EB5-9F40-1D6AA1FB2B3F}|POS.Application\\POS.Application.csproj|c:\\projects\\pos\\pos-back-yt\\pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE71EBB-D03C-4EB5-9F40-1D6AA1FB2B3F}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FE71EBB-D03C-4EB5-9F40-1D6AA1FB2B3F}|POS.Application\\POS.Application.csproj|c:\\projects\\pos\\pos-back-yt\\pos.application\\mappers\\voucherdocumenttypemappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,20 +54,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "POS.Api\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "POS.Api\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:25:52.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "POS.Api\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "POS.Api\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:42:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "POS.Api\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "POS.Api\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:23:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InjectionExtensions.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Application\\Extensions\\InjectionExtensions.cs",
               "RelativeDocumentMoniker": "POS.Application\\Extensions\\InjectionExtensions.cs",
               "ToolTip": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Application\\Extensions\\InjectionExtensions.cs",
               "RelativeToolTip": "POS.Application\\Extensions\\InjectionExtensions.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:09:22.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:09:22.037Z"
             },
             {
               "$type": "Document",
@@ -65,14 +118,14 @@
               "RelativeDocumentMoniker": "POS.Api\\Controllers\\VoucherDocumentTypeController.cs",
               "ToolTip": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Api\\Controllers\\VoucherDocumentTypeController.cs",
               "RelativeToolTip": "POS.Api\\Controllers\\VoucherDocumentTypeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T23:06:38.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VoucherDocumentTypeMappingsProfile.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Application\\Mappers\\VoucherDocumentTypeMappingsProfile.cs",
               "RelativeDocumentMoniker": "POS.Application\\Mappers\\VoucherDocumentTypeMappingsProfile.cs",
@@ -80,12 +133,11 @@
               "RelativeToolTip": "POS.Application\\Mappers\\VoucherDocumentTypeMappingsProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:05:31.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:05:31.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VoucherDocumentTypeApplication.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Application\\Services\\VoucherDocumentTypeApplication.cs",
               "RelativeDocumentMoniker": "POS.Application\\Services\\VoucherDocumentTypeApplication.cs",
@@ -93,12 +145,11 @@
               "RelativeToolTip": "POS.Application\\Services\\VoucherDocumentTypeApplication.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:00:06.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:00:06.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IVoucherDocumentTypeApplication.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Application\\Interfaces\\IVoucherDocumentTypeApplication.cs",
               "RelativeDocumentMoniker": "POS.Application\\Interfaces\\IVoucherDocumentTypeApplication.cs",
@@ -106,12 +157,11 @@
               "RelativeToolTip": "POS.Application\\Interfaces\\IVoucherDocumentTypeApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:58:50.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:58:50.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
@@ -119,12 +169,11 @@
               "RelativeToolTip": "POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAA5wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:56:37.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:56:37.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
@@ -132,12 +181,11 @@
               "RelativeToolTip": "POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wBQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:56:10.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:56:10.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "VoucherDocumentType.cs",
               "DocumentMoniker": "C:\\Projects\\POS\\POS-BACK-YT\\POS.Domain\\Entities\\VoucherDocumentType.cs",
               "RelativeDocumentMoniker": "POS.Domain\\Entities\\VoucherDocumentType.cs",
@@ -145,8 +193,7 @@
               "RelativeToolTip": "POS.Domain\\Entities\\VoucherDocumentType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:55:35.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:55:35.339Z"
             }
           ]
         }
